@@ -29,6 +29,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   in_app_purchase: ^0.3.4+12
   shared_preferences: ^0.5.12
+  flutter_dotenv: ^2.1.0
 
 dev_dependencies:
   flutter_test:
